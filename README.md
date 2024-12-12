@@ -18,8 +18,3 @@ I'm Simeon Zimmermann - professional and freelance web developer working in and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>
 </div>
-
-
-## My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyzBeats&theme=dark&background=000000)](https://git.io/streak-stats)
